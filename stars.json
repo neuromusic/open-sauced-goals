@@ -1,14 +1,14 @@
 [
   {
     "full_name": "TileDB-Inc/TileDB",
-    "stargazers_count": 1356,
+    "stargazers_count": 1357,
     "open_issues_count": 176,
     "forks_count": 153
   },
   {
     "full_name": "napari/napari",
     "stargazers_count": 1396,
-    "open_issues_count": 868,
+    "open_issues_count": 872,
     "forks_count": 289
   },
   {
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "romanhaa/Cerebro",
-    "stargazers_count": 75,
+    "stargazers_count": 76,
     "open_issues_count": 29,
     "forks_count": 17
   },
   {
     "full_name": "chanzuckerberg/cellxgene",
-    "stargazers_count": 393,
-    "open_issues_count": 99,
+    "stargazers_count": 394,
+    "open_issues_count": 102,
     "forks_count": 74
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "wip/app",
-    "stargazers_count": 667,
+    "stargazers_count": 668,
     "open_issues_count": 5,
     "forks_count": 157
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "pydata/xarray",
-    "stargazers_count": 2567,
-    "open_issues_count": 930,
+    "stargazers_count": 2568,
+    "open_issues_count": 933,
     "forks_count": 803
   },
   {
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 53523,
+    "stargazers_count": 53534,
     "open_issues_count": 1624,
-    "forks_count": 18587
+    "forks_count": 18595
   },
   {
     "full_name": "jfsantos/AuditoryFilters.jl",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "jiaaro/pydub",
-    "stargazers_count": 6200,
+    "stargazers_count": 6201,
     "open_issues_count": 260,
     "forks_count": 837
   },
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "impress/impress.js",
-    "stargazers_count": 36720,
-    "open_issues_count": 58,
-    "forks_count": 6832
+    "stargazers_count": 36722,
+    "open_issues_count": 59,
+    "forks_count": 6831
   },
   {
     "full_name": "ropensci-training/workshops-scio14-2014-02",
