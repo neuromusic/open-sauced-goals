@@ -1,14 +1,14 @@
 [
   {
     "full_name": "TileDB-Inc/TileDB",
-    "stargazers_count": 1358,
-    "open_issues_count": 174,
+    "stargazers_count": 1359,
+    "open_issues_count": 179,
     "forks_count": 153
   },
   {
     "full_name": "napari/napari",
-    "stargazers_count": 1400,
-    "open_issues_count": 890,
+    "stargazers_count": 1403,
+    "open_issues_count": 884,
     "forks_count": 291
   },
   {
@@ -56,8 +56,8 @@
   {
     "full_name": "zarr-developers/zarr-python",
     "stargazers_count": 939,
-    "open_issues_count": 214,
-    "forks_count": 165
+    "open_issues_count": 211,
+    "forks_count": 166
   },
   {
     "full_name": "theislab/kBET",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "pydata/xarray",
-    "stargazers_count": 2578,
-    "open_issues_count": 928,
-    "forks_count": 805
+    "stargazers_count": 2582,
+    "open_issues_count": 934,
+    "forks_count": 806
   },
   {
     "full_name": "flatironinstitute/CaImAn-MATLAB",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 53692,
-    "open_issues_count": 1527,
-    "forks_count": 18680
+    "stargazers_count": 53722,
+    "open_issues_count": 1537,
+    "forks_count": 18716
   },
   {
     "full_name": "jfsantos/AuditoryFilters.jl",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "jiaaro/pydub",
-    "stargazers_count": 6217,
-    "open_issues_count": 259,
-    "forks_count": 839
+    "stargazers_count": 6227,
+    "open_issues_count": 260,
+    "forks_count": 840
   },
   {
     "full_name": "SEL-Columbia/bamboo",
@@ -165,13 +165,13 @@
     "full_name": "hannes-brt/hebel",
     "stargazers_count": 1176,
     "open_issues_count": 6,
-    "forks_count": 128
+    "forks_count": 127
   },
   {
     "full_name": "impress/impress.js",
-    "stargazers_count": 36722,
+    "stargazers_count": 36724,
     "open_issues_count": 62,
-    "forks_count": 6830
+    "forks_count": 6828
   },
   {
     "full_name": "ropensci-training/workshops-scio14-2014-02",
