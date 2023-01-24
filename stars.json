@@ -1,14 +1,14 @@
 [
   {
     "full_name": "TileDB-Inc/TileDB",
-    "stargazers_count": 1444,
-    "open_issues_count": 183,
+    "stargazers_count": 1445,
+    "open_issues_count": 182,
     "forks_count": 167
   },
   {
     "full_name": "napari/napari",
-    "stargazers_count": 1583,
-    "open_issues_count": 927,
+    "stargazers_count": 1585,
+    "open_issues_count": 928,
     "forks_count": 341
   },
   {
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "zarr-developers/zarr-python",
-    "stargazers_count": 1074,
-    "open_issues_count": 246,
+    "stargazers_count": 1076,
+    "open_issues_count": 247,
     "forks_count": 214
   },
   {
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "zivlab/CellReg",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 0,
     "forks_count": 20
   },
   {
     "full_name": "AllenInstitute/bmtk",
-    "stargazers_count": 220,
-    "open_issues_count": 38,
+    "stargazers_count": 221,
+    "open_issues_count": 39,
     "forks_count": 77
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "pydata/xarray",
-    "stargazers_count": 2820,
-    "open_issues_count": 1092,
+    "stargazers_count": 2833,
+    "open_issues_count": 1093,
     "forks_count": 867
   },
   {
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "spotify/luigi",
-    "stargazers_count": 16253,
+    "stargazers_count": 16263,
     "open_issues_count": 109,
-    "forks_count": 2354
+    "forks_count": 2353
   },
   {
     "full_name": "tortilla/tortilla",
-    "stargazers_count": 1238,
+    "stargazers_count": 1239,
     "open_issues_count": 7,
     "forks_count": 45
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 57403,
-    "open_issues_count": 2358,
-    "forks_count": 21549
+    "stargazers_count": 57465,
+    "open_issues_count": 2354,
+    "forks_count": 21594
   },
   {
     "full_name": "jfsantos/AuditoryFilters.jl",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "jiaaro/pydub",
-    "stargazers_count": 6685,
-    "open_issues_count": 286,
-    "forks_count": 900
+    "stargazers_count": 6701,
+    "open_issues_count": 288,
+    "forks_count": 901
   },
   {
     "full_name": "SEL-Columbia/bamboo",
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "hannes-brt/hebel",
-    "stargazers_count": 1170,
+    "stargazers_count": 1171,
     "open_issues_count": 6,
-    "forks_count": 126
+    "forks_count": 127
   },
   {
     "full_name": "impress/impress.js",
-    "stargazers_count": 37078,
+    "stargazers_count": 37082,
     "open_issues_count": 67,
     "forks_count": 6830
   },
