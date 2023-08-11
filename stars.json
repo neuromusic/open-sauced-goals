@@ -1,14 +1,14 @@
 [
   {
     "full_name": "TileDB-Inc/TileDB",
-    "stargazers_count": 1580,
-    "open_issues_count": 216,
+    "stargazers_count": 1582,
+    "open_issues_count": 217,
     "forks_count": 171
   },
   {
     "full_name": "napari/napari",
-    "stargazers_count": 1848,
-    "open_issues_count": 1005,
+    "stargazers_count": 1849,
+    "open_issues_count": 1003,
     "forks_count": 377
   },
   {
@@ -32,7 +32,7 @@
   {
     "full_name": "Novartis/cellxgene-gateway",
     "stargazers_count": 44,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 27
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "chanzuckerberg/cellxgene",
-    "stargazers_count": 492,
+    "stargazers_count": 494,
     "open_issues_count": 120,
     "forks_count": 98
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "zarr-developers/zarr-python",
-    "stargazers_count": 1194,
-    "open_issues_count": 275,
-    "forks_count": 223
+    "stargazers_count": 1195,
+    "open_issues_count": 279,
+    "forks_count": 225
   },
   {
     "full_name": "theislab/kBET",
@@ -68,7 +68,7 @@
   {
     "full_name": "wip/app",
     "stargazers_count": 702,
-    "open_issues_count": 7,
+    "open_issues_count": 6,
     "forks_count": 162
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "AllenInstitute/bmtk",
-    "stargazers_count": 237,
+    "stargazers_count": 238,
     "open_issues_count": 36,
-    "forks_count": 80
+    "forks_count": 81
   },
   {
     "full_name": "gamaleldin/CFR",
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "pydata/xarray",
-    "stargazers_count": 3050,
-    "open_issues_count": 1156,
-    "forks_count": 966
+    "stargazers_count": 3052,
+    "open_issues_count": 1161,
+    "forks_count": 971
   },
   {
     "full_name": "flatironinstitute/CaImAn-MATLAB",
-    "stargazers_count": 236,
+    "stargazers_count": 237,
     "open_issues_count": 10,
     "forks_count": 142
   },
   {
     "full_name": "spotify/luigi",
-    "stargazers_count": 16707,
-    "open_issues_count": 119,
-    "forks_count": 2376
+    "stargazers_count": 16710,
+    "open_issues_count": 120,
+    "forks_count": 2375
   },
   {
     "full_name": "tortilla/tortilla",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 62129,
-    "open_issues_count": 2597,
-    "forks_count": 24077
+    "stargazers_count": 62211,
+    "open_issues_count": 2626,
+    "forks_count": 24105
   },
   {
     "full_name": "jfsantos/AuditoryFilters.jl",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "jiaaro/pydub",
-    "stargazers_count": 7504,
+    "stargazers_count": 7513,
     "open_issues_count": 318,
     "forks_count": 955
   },
@@ -171,7 +171,7 @@
     "full_name": "impress/impress.js",
     "stargazers_count": 37285,
     "open_issues_count": 76,
-    "forks_count": 6810
+    "forks_count": 6809
   },
   {
     "full_name": "ropensci-training/workshops-scio14-2014-02",
