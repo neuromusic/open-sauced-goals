@@ -1,14 +1,14 @@
 [
   {
     "full_name": "TileDB-Inc/TileDB",
-    "stargazers_count": 1593,
-    "open_issues_count": 203,
-    "forks_count": 172
+    "stargazers_count": 1598,
+    "open_issues_count": 205,
+    "forks_count": 171
   },
   {
     "full_name": "napari/napari",
-    "stargazers_count": 1868,
-    "open_issues_count": 1002,
+    "stargazers_count": 1871,
+    "open_issues_count": 1003,
     "forks_count": 379
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "chanzuckerberg/cellxgene",
-    "stargazers_count": 500,
+    "stargazers_count": 503,
     "open_issues_count": 112,
     "forks_count": 102
   },
@@ -55,13 +55,13 @@
   },
   {
     "full_name": "zarr-developers/zarr-python",
-    "stargazers_count": 1211,
-    "open_issues_count": 281,
-    "forks_count": 234
+    "stargazers_count": 1212,
+    "open_issues_count": 280,
+    "forks_count": 235
   },
   {
     "full_name": "theislab/kBET",
-    "stargazers_count": 133,
+    "stargazers_count": 135,
     "open_issues_count": 8,
     "forks_count": 23
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "pydata/xarray",
-    "stargazers_count": 3075,
-    "open_issues_count": 1173,
+    "stargazers_count": 3078,
+    "open_issues_count": 1177,
     "forks_count": 971
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "spotify/luigi",
-    "stargazers_count": 16758,
+    "stargazers_count": 16764,
     "open_issues_count": 121,
     "forks_count": 2376
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 62519,
-    "open_issues_count": 2599,
-    "forks_count": 24424
+    "stargazers_count": 62618,
+    "open_issues_count": 2607,
+    "forks_count": 24509
   },
   {
     "full_name": "jfsantos/AuditoryFilters.jl",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "jiaaro/pydub",
-    "stargazers_count": 7592,
+    "stargazers_count": 7608,
     "open_issues_count": 320,
-    "forks_count": 964
+    "forks_count": 966
   },
   {
     "full_name": "SEL-Columbia/bamboo",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "impress/impress.js",
-    "stargazers_count": 37312,
+    "stargazers_count": 37314,
     "open_issues_count": 76,
     "forks_count": 6810
   },
