@@ -1,14 +1,14 @@
 [
   {
     "full_name": "TileDB-Inc/TileDB",
-    "stargazers_count": 1676,
-    "open_issues_count": 153,
+    "stargazers_count": 1679,
+    "open_issues_count": 152,
     "forks_count": 176
   },
   {
     "full_name": "napari/napari",
-    "stargazers_count": 1966,
-    "open_issues_count": 1061,
+    "stargazers_count": 1968,
+    "open_issues_count": 1065,
     "forks_count": 395
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "chanzuckerberg/cellxgene",
-    "stargazers_count": 537,
-    "open_issues_count": 115,
+    "stargazers_count": 539,
+    "open_issues_count": 116,
     "forks_count": 107
   },
   {
@@ -50,7 +50,7 @@
   {
     "full_name": "zarr-developers/zarr-python",
     "stargazers_count": 1265,
-    "open_issues_count": 277,
+    "open_issues_count": 280,
     "forks_count": 262
   },
   {
@@ -74,7 +74,7 @@
   {
     "full_name": "AllenInstitute/bmtk",
     "stargazers_count": 246,
-    "open_issues_count": 53,
+    "open_issues_count": 54,
     "forks_count": 83
   },
   {
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "pydata/xarray",
-    "stargazers_count": 3286,
+    "stargazers_count": 3293,
     "open_issues_count": 1102,
     "forks_count": 993
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "spotify/luigi",
-    "stargazers_count": 16977,
+    "stargazers_count": 16982,
     "open_issues_count": 124,
-    "forks_count": 2381
+    "forks_count": 2382
   },
   {
     "full_name": "tortilla/tortilla",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 64974,
-    "open_issues_count": 2683,
-    "forks_count": 26211
+    "stargazers_count": 65110,
+    "open_issues_count": 2670,
+    "forks_count": 26272
   },
   {
     "full_name": "jfsantos/AuditoryFilters.jl",
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "jiaaro/pydub",
-    "stargazers_count": 7985,
-    "open_issues_count": 331,
+    "stargazers_count": 8002,
+    "open_issues_count": 333,
     "forks_count": 978
   },
   {
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "impress/impress.js",
-    "stargazers_count": 37403,
+    "stargazers_count": 37404,
     "open_issues_count": 68,
-    "forks_count": 6854
+    "forks_count": 6852
   },
   {
     "full_name": "ropensci-training/workshops-scio14-2014-02",
