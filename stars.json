@@ -7,14 +7,14 @@
   },
   {
     "full_name": "TileDB-Inc/TileDB",
-    "stargazers_count": 1741,
-    "open_issues_count": 115,
-    "forks_count": 178
+    "stargazers_count": 1744,
+    "open_issues_count": 112,
+    "forks_count": 179
   },
   {
     "full_name": "napari/napari",
-    "stargazers_count": 2025,
-    "open_issues_count": 1038,
+    "stargazers_count": 2029,
+    "open_issues_count": 1037,
     "forks_count": 400
   },
   {
@@ -44,7 +44,7 @@
   {
     "full_name": "chanzuckerberg/cellxgene",
     "stargazers_count": 568,
-    "open_issues_count": 119,
+    "open_issues_count": 122,
     "forks_count": 110
   },
   {
@@ -56,7 +56,7 @@
   {
     "full_name": "zarr-developers/zarr-python",
     "stargazers_count": 1316,
-    "open_issues_count": 287,
+    "open_issues_count": 284,
     "forks_count": 247
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "pydata/xarray",
-    "stargazers_count": 3376,
-    "open_issues_count": 1138,
-    "forks_count": 1005
+    "stargazers_count": 3380,
+    "open_issues_count": 1143,
+    "forks_count": 1007
   },
   {
     "full_name": "flatironinstitute/CaImAn-MATLAB",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "spotify/luigi",
-    "stargazers_count": 17212,
-    "open_issues_count": 130,
-    "forks_count": 2362
+    "stargazers_count": 17225,
+    "open_issues_count": 131,
+    "forks_count": 2360
   },
   {
     "full_name": "tortilla/tortilla",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 68008,
-    "open_issues_count": 3061,
-    "forks_count": 27560
+    "stargazers_count": 68082,
+    "open_issues_count": 3065,
+    "forks_count": 27596
   },
   {
     "full_name": "jfsantos/AuditoryFilters.jl",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "jiaaro/pydub",
-    "stargazers_count": 8245,
-    "open_issues_count": 346,
-    "forks_count": 991
+    "stargazers_count": 8259,
+    "open_issues_count": 349,
+    "forks_count": 993
   },
   {
     "full_name": "SEL-Columbia/bamboo",
@@ -165,11 +165,11 @@
     "full_name": "hannes-brt/hebel",
     "stargazers_count": 1170,
     "open_issues_count": 6,
-    "forks_count": 122
+    "forks_count": 121
   },
   {
     "full_name": "impress/impress.js",
-    "stargazers_count": 37483,
+    "stargazers_count": 37480,
     "open_issues_count": 67,
     "forks_count": 6681
   },
