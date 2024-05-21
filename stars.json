@@ -13,14 +13,14 @@
   },
   {
     "full_name": "TileDB-Inc/TileDB",
-    "stargazers_count": 1774,
-    "open_issues_count": 112,
+    "stargazers_count": 1777,
+    "open_issues_count": 115,
     "forks_count": 180
   },
   {
     "full_name": "napari/napari",
-    "stargazers_count": 2072,
-    "open_issues_count": 1048,
+    "stargazers_count": 2075,
+    "open_issues_count": 1050,
     "forks_count": 410
   },
   {
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "zarr-developers/zarr-python",
-    "stargazers_count": 1349,
-    "open_issues_count": 333,
-    "forks_count": 256
+    "stargazers_count": 1353,
+    "open_issues_count": 324,
+    "forks_count": 257
   },
   {
     "full_name": "theislab/kBET",
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "AllenInstitute/bmtk",
-    "stargazers_count": 257,
-    "open_issues_count": 55,
+    "stargazers_count": 258,
+    "open_issues_count": 56,
     "forks_count": 84
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "pydata/xarray",
-    "stargazers_count": 3429,
-    "open_issues_count": 1150,
+    "stargazers_count": 3432,
+    "open_issues_count": 1151,
     "forks_count": 1021
   },
   {
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "spotify/luigi",
-    "stargazers_count": 17376,
+    "stargazers_count": 17385,
     "open_issues_count": 131,
-    "forks_count": 2374
+    "forks_count": 2375
   },
   {
     "full_name": "tortilla/tortilla",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 69006,
-    "open_issues_count": 3060,
-    "forks_count": 28257
+    "stargazers_count": 69075,
+    "open_issues_count": 3040,
+    "forks_count": 28302
   },
   {
     "full_name": "jfsantos/AuditoryFilters.jl",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "jiaaro/pydub",
-    "stargazers_count": 8399,
-    "open_issues_count": 353,
-    "forks_count": 1003
+    "stargazers_count": 8414,
+    "open_issues_count": 354,
+    "forks_count": 1005
   },
   {
     "full_name": "SEL-Columbia/bamboo",
@@ -171,7 +171,7 @@
     "full_name": "hannes-brt/hebel",
     "stargazers_count": 1169,
     "open_issues_count": 6,
-    "forks_count": 121
+    "forks_count": 122
   },
   {
     "full_name": "impress/impress.js",
