@@ -14,13 +14,13 @@
   {
     "full_name": "TileDB-Inc/TileDB",
     "stargazers_count": 1794,
-    "open_issues_count": 119,
+    "open_issues_count": 117,
     "forks_count": 178
   },
   {
     "full_name": "napari/napari",
-    "stargazers_count": 2100,
-    "open_issues_count": 1047,
+    "stargazers_count": 2101,
+    "open_issues_count": 1051,
     "forks_count": 410
   },
   {
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "zarr-developers/zarr-python",
-    "stargazers_count": 1371,
-    "open_issues_count": 326,
-    "forks_count": 259
+    "stargazers_count": 1375,
+    "open_issues_count": 331,
+    "forks_count": 261
   },
   {
     "full_name": "theislab/kBET",
-    "stargazers_count": 148,
+    "stargazers_count": 147,
     "open_issues_count": 8,
     "forks_count": 23
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "pydata/xarray",
-    "stargazers_count": 3458,
-    "open_issues_count": 1153,
-    "forks_count": 1029
+    "stargazers_count": 3462,
+    "open_issues_count": 1150,
+    "forks_count": 1030
   },
   {
     "full_name": "flatironinstitute/CaImAn-MATLAB",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "spotify/luigi",
-    "stargazers_count": 17454,
-    "open_issues_count": 130,
-    "forks_count": 2377
+    "stargazers_count": 17458,
+    "open_issues_count": 131,
+    "forks_count": 2378
   },
   {
     "full_name": "tortilla/tortilla",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 69415,
-    "open_issues_count": 2863,
-    "forks_count": 28616
+    "stargazers_count": 69468,
+    "open_issues_count": 2861,
+    "forks_count": 28663
   },
   {
     "full_name": "jfsantos/AuditoryFilters.jl",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "jiaaro/pydub",
-    "stargazers_count": 8494,
+    "stargazers_count": 8507,
     "open_issues_count": 355,
     "forks_count": 1011
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "impress/impress.js",
-    "stargazers_count": 37554,
+    "stargazers_count": 37559,
     "open_issues_count": 67,
     "forks_count": 6678
   }
