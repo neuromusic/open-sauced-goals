@@ -13,15 +13,15 @@
   },
   {
     "full_name": "TileDB-Inc/TileDB",
-    "stargazers_count": 1831,
-    "open_issues_count": 116,
-    "forks_count": 183
+    "stargazers_count": 1833,
+    "open_issues_count": 115,
+    "forks_count": 184
   },
   {
     "full_name": "napari/napari",
     "stargazers_count": 2155,
-    "open_issues_count": 1043,
-    "forks_count": 419
+    "open_issues_count": 1035,
+    "forks_count": 420
   },
   {
     "full_name": "chanzuckerberg/napari-hub-cli",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "chanzuckerberg/cellxgene",
-    "stargazers_count": 611,
+    "stargazers_count": 613,
     "open_issues_count": 126,
     "forks_count": 116
   },
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "zarr-developers/zarr-python",
-    "stargazers_count": 1436,
-    "open_issues_count": 372,
+    "stargazers_count": 1443,
+    "open_issues_count": 373,
     "forks_count": 272
   },
   {
@@ -74,8 +74,8 @@
   {
     "full_name": "wip/app",
     "stargazers_count": 725,
-    "open_issues_count": 11,
-    "forks_count": 128
+    "open_issues_count": 10,
+    "forks_count": 127
   },
   {
     "full_name": "zivlab/CellReg",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "AllenInstitute/bmtk",
-    "stargazers_count": 264,
+    "stargazers_count": 265,
     "open_issues_count": 62,
-    "forks_count": 85
+    "forks_count": 86
   },
   {
     "full_name": "gamaleldin/CFR",
@@ -110,8 +110,8 @@
   {
     "full_name": "pydata/xarray",
     "stargazers_count": 3545,
-    "open_issues_count": 1171,
-    "forks_count": 1060
+    "open_issues_count": 1160,
+    "forks_count": 1064
   },
   {
     "full_name": "flatironinstitute/CaImAn-MATLAB",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "spotify/luigi",
-    "stargazers_count": 17643,
+    "stargazers_count": 17658,
     "open_issues_count": 135,
-    "forks_count": 2386
+    "forks_count": 2387
   },
   {
     "full_name": "tortilla/tortilla",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 70725,
-    "open_issues_count": 2631,
-    "forks_count": 29526
+    "stargazers_count": 70916,
+    "open_issues_count": 2645,
+    "forks_count": 29575
   },
   {
     "full_name": "jfsantos/AuditoryFilters.jl",
@@ -157,8 +157,8 @@
   },
   {
     "full_name": "jiaaro/pydub",
-    "stargazers_count": 8718,
-    "open_issues_count": 364,
+    "stargazers_count": 8725,
+    "open_issues_count": 366,
     "forks_count": 1029
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "impress/impress.js",
-    "stargazers_count": 37613,
+    "stargazers_count": 37615,
     "open_issues_count": 67,
     "forks_count": 6674
   }
